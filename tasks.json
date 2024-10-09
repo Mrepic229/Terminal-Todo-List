@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "name": "brush teeth",
+            "description": "Go to the bathroom and brush teeth"
+        },
+        {
+            "name": "get dressed",
+            "description": "Go to closet and pick clothes to ware"
+        }
+    ]
+}
